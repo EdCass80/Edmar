@@ -10,5 +10,4 @@ localStorage.setItem('meuCpf' , cpf.value)
 // debugger
 console.log(localStorage.getItem('meuNome').valueOf)
 console.log(localStorage.getItem('meucpf').valueOf)
-
 }
